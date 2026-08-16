@@ -63,9 +63,9 @@ I also added some lightweight tracking to make it easier to see what the book is
 - order and price-level allocation counters
 - CSV output for timing data
 
-## Performance Ideas I Wanted to Explore
+## Performance Considerations
 
-This project is not just about correctness. I also wanted to think about how a matching engine behaves under load.
+This project emphasizes both correctness and the operational behavior of a matching engine under load.
 
 The current version already gives a base for discussing:
 
